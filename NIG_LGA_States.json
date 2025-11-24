@@ -415,7 +415,7 @@
     ]
   },
   {
-    "state": "FCT-Abuja",
+    "state": "FCT_Abuja",
     "alias": "Federal Capital Territory",
     "lgas": [
       "Abaji",
@@ -661,7 +661,7 @@
       "Ajaokuta",
       "Adavi",
       "Ankpa",
-      "Bassa",
+      "Basa",
       "Dekina",
       "Ibaji",
       "Idah",
@@ -997,3 +997,4 @@
   }
 
 ]
+
