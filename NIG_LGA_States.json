@@ -45,10 +45,10 @@
       "Ikono",
       "Ikot Ekpene",
       "Ini",
-      "Mkpat-Enin",
+      "Mkpat_Enin",
       "Itu",
       "Mbo",
-      "Nsit-Atai",
+      "Nsit_Atai",
       "Nsit Ibom",
       "Nsit Ubium",
       "Obot Akara",
@@ -638,7 +638,7 @@
       "Madobi",
       "Makoda",
       "Minjibir",
-      "Nasarawa",
+      "nassarawa",
       "Rano",
       "Rimi Gado",
       "Rogo",
@@ -686,8 +686,8 @@
     "alias": "osun",
     "lgas": [
       "Ayedire",
-      "Atakumosa East",
-      "Atakunmosa East",
+      "atakumosa_west",
+      "atakumosa_east",
       "Ayedade",
       "Boluwaduro",
       "Boripe",
@@ -997,5 +997,6 @@
   }
 
 ]
+
 
 
